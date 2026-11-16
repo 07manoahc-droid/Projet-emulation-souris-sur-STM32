@@ -1,0 +1,17 @@
+# Dossiers de compilation
+Debug/
+Release/
+
+# Fichiers binaires et de log
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.o
+*.d
+*.su
+
+# Configurations locales de l'IDE
+.metadata/
+*.launch
