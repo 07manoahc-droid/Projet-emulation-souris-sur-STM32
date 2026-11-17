@@ -68,7 +68,7 @@ L'essentiel de la logique se trouve dans le fichier 'Core/Src/main.c'.
 
 
 
-1\. Clonez ce dépôt : 'git clone https://github.com/\[VOTRE\_NOM]/\[NOM\_DU\_DEPOT].git'
+1\. Clonez ce dépôt
 
 2\. Ouvrez le projet avec STM32CubeIDE.
 
